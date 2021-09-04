@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Mi nombre es Alex Magna</h1>
 <h3 align="center">Soy Ingeniero en Informática</h3>
 
