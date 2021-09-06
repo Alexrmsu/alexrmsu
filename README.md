@@ -1,5 +1,5 @@
 <h1 align="center">Mi nombre es Alex Magna</h1>
-<h3 align="center">Soy Ingeniero en Informática</h3>
+<h3 align="center">Soy estudiante de Ingenieria en Informática</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrmsu&label=Profile%20views&color=0e75b6&style=flat" alt="alexrmsu" /> </p>
 
