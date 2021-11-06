@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrmsu&label=Profile%20views&color=0e75b6&style=flat" alt="alexrmsu" /> </p>
 
 
-- 🌱 Actualmente estoy aprendiendo **NodeJS** 
+- 🌱 Actualmente estoy aprendiendo **Flutter** 
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
