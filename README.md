@@ -9,7 +9,6 @@
 <h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alex-magna-94631b185/?originalSubdomain=cl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-magna-94631b185/" height="30" width="40" /></a>
-<a href="https://instagram.com/alex.rms.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex.rms.s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas que he ocupado:</h3>
