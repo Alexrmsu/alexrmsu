@@ -1,10 +1,10 @@
 <h1 align="center">Mi nombre es Alex Magna</h1>
 <h3 align="center">Soy estudiante de Ingenieria en Informática</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrmsu&label=Profile%20views&color=0e75b6&style=flat" alt="alexrmsu" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrmsu&label=Profile%20views&color=0e75b6&style=flat" alt="alexrmsu" /> </p> -->
 
 
-- 🌱 Actualmente estoy aprendiendo **Ruby on Rails** 
+- 🌱 Actualmente estoy aprendiendo **React** 
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
