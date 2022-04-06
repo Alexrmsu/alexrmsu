@@ -17,5 +17,5 @@
 <h1> Stats: </h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexrmsu&show_icons=true&locale=en" alt="alexrmsu" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Alexrmsu&theme=slateorange& " alt="alexrmsu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Alexrmsu&theme=slateorange&" alt="alexrmsu" /></p>
 <br>
