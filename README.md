@@ -1,6 +1,6 @@
 <pre>
            _             __  __                             {
-     /\   | |           |  \/  |                              "💚 I love"          : "Pistaccio and frogs",      
+     /\   | |           |  \/  |                              "💚 I love"          : "Pistachio and Frogs",      
     /  \  | | _____  __ | \  / | __ _  __ _ _ __   __ _       "🌱 I'm currently"   : "Learning Python",
    / /\ \ | |/ _ \ \/ / | |\/| |/ _` |/ _` | '_ \ / _` |      "👱‍♂️ Pronouns"        : "He/Him",
   / ____ \| |  __/>  <  | |  | | (_| | (_| | | | | (_| |      "🙏 Favorite Lang"   : "Typescript"
