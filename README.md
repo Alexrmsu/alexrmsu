@@ -31,7 +31,6 @@
 
 <h1> Stats: </h1>
 <p>
-  <img align="center" width="auto" height="200px" src="https://github-readme-stats.vercel.app/api?username=Alexrmsu&show_icons=true&locale=en&theme=chartreuse-dark&" alt="alexrmsu" />
   <img align="center" width="auto" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexrmsu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&" alt="alexrmsu"/>
 </p>
 <br>
